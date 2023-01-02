@@ -1,6 +1,6 @@
 
 #!/bin/bash
 ALXroot@a427e92656da:~/alx-zero_day/0x03-git/bash# 
-echoALXroot@a427e92656da:~/alx-zero_day/0x03-git/bash# 
+echoALXroot@a427e92656da:~/alx-zero_day/0x03-git/bash#
 #!/bin/bash
-echo "ALX School"
+echo "ALX School is so cool!"
